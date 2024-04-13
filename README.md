@@ -1,1 +1,2 @@
-# odin_recipes
+The current project is making a main index page that will link to some recipes.
+The skills I will demonstrate on this project are as follows: setting up html, making a webpage, and making links to other pages.
