@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+.ht{
+    background-color: red;
+    color: white;
+    text-shadow: 2px 4px 10px black;
+}
+#sr{
+    color: red;
+    text-shadow: 2px 4px 10px red;
+}
+#c{
+    color: lightgreen;
+    text-shadow: 2px 4px 10px lightgreen;
+}
+#ch{
+    color: brown;
+    text-shadow: 2px 4px 10px brown;
+}
+.l{
+    font-weight: bold;
+}

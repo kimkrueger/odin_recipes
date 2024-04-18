@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+.ht{
+    background-color: palegoldenrod;
+    color: yellow;
+    font-weight: bold;
+    text-shadow: 2px 4px 10px black;
+}
+.l{
+    font-weight: bold;
+}
